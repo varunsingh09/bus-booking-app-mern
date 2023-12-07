@@ -1,0 +1,11 @@
+server/node_modules/
+client/node_modules/
+*.zip
+.DS_Store
+.idea
+notes.md
+.variables.env
+server/package-lock.json
+client/package-lock.json
+server
+*.pdf
