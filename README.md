@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="razorpay" />
 </p>
 
-Blue Bus is a MERN Stack Bus Ticket Booking web application that allows you to buy bus tickets online. It provides features such as viewing your past and upcoming tickets, as well as the option to cancel tickets if needed.
+Om Bus is a MERN Stack Bus Ticket Booking web application that allows you to buy bus tickets online. It provides features such as viewing your past and upcoming tickets, as well as the option to cancel tickets if needed.
 <br />
 
 ## Buses are available only from Mumbai to Bengaluru.
@@ -55,7 +55,7 @@ Blue Bus is a MERN Stack Bus Ticket Booking web application that allows you to b
 
 <br />
 
-## Glimpses of Sisodia Bus Service🙈 :
+## Glimpses of Om Bus Service🙈 :
 
 ## Razorpay test payment Cards
 
